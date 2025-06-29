@@ -1,0 +1,25 @@
+body{
+    border: 5px solid rgb(126, 8, 126);
+}
+.titulo{
+    color: red;
+}
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table,tr,th,td{
+    border: 2px solid;
+    border-collapse: collapse;
+    padding: 10px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2,h1{
+    background-color: rgb(126, 8, 126);
+    color: white;
+    font-family: sans-serif;
+}
+.crash{
+    size: 100%;
+}
