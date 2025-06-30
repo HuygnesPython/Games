@@ -15,11 +15,25 @@ table,tr,th,td{
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
 }
-h2,h1{
+h3,h2,h1{
     background-color: rgb(126, 8, 126);
     color: white;
     font-family: sans-serif;
 }
 .crash{
     size: 100%;
+}
+.butoes{
+    size: 30%;
+}
+h1{
+    text-align: center;
+}
+h3,h2{
+    padding: 5px;
+}
+button{
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 2px;
 }
